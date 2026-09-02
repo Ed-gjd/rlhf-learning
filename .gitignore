@@ -1,0 +1,6 @@
+# 通用
+.DS_Store
+*.swp
+*.tmp
+*.pyc
+__pycache__/
